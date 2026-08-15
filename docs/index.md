@@ -111,6 +111,7 @@ behind it:
 - [Toyota company history](https://corpdigest.com/company/toyota/company-history) - dated milestones, non-calendar fiscal year
 - [Oracle financials](https://corpdigest.com/company/oracle/financials) - multi-year revenue records
 - [Starbucks founders](https://corpdigest.com/company/starbucks/founders) - founder backgrounds and roles
+- [JPMorgan Chase business model](https://corpdigest.com/company/jpmorgan-chase/business-model) - fee income vs. net interest income split
 
 The full sourcing rules, review cadence and correction policy are documented in the
 [CorpDigest methodology](https://corpdigest.com/methodology), and the profiles themselves are at
