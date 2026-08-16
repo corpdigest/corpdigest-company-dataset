@@ -112,6 +112,7 @@ behind it:
 - [Oracle financials](https://corpdigest.com/company/oracle/financials) - multi-year revenue records
 - [Starbucks founders](https://corpdigest.com/company/starbucks/founders) - founder backgrounds and roles
 - [JPMorgan Chase business model](https://corpdigest.com/company/jpmorgan-chase/business-model) - fee income vs. net interest income split
+- [IBM acquisitions](https://corpdigest.com/company/ibm/acquisitions) - integration cadence across a century of deals
 
 The full sourcing rules, review cadence and correction policy are documented in the
 [CorpDigest methodology](https://corpdigest.com/methodology), and the profiles themselves are at
